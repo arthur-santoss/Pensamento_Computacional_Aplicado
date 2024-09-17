@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "c:\Users\Arthur\Desktop\Descomplica\Pensamento Computacional Aplicado\08_Exceptions\cria_log_4_excecoes.py", line 5, in <module>
+    arquivo = open(nome_arquivo)
+              ^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'aa'
+Traceback (most recent call last):
+  File "c:\Users\Arthur\Desktop\Descomplica\Pensamento Computacional Aplicado\08_Exceptions\cria_log_4_excecoes.py", line 5, in <module>
+    arquivo = open(nome_arquivo)
+              ^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'bb'

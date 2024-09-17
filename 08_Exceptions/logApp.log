@@ -1,0 +1,6 @@
+ERROR:root:Problema de divisão dos números por zero
+Traceback (most recent call last):
+  File "c:\Users\Arthur\Desktop\Descomplica\Pensamento Computacional Aplicado\08_Exceptions\logging_excecoes.py", line 7, in calculoValores
+    resultado = num1/num2
+                ~~~~^~~~~
+ZeroDivisionError: division by zero

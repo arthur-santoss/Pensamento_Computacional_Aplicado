@@ -1,0 +1,23 @@
+{
+    "id": 2,
+    "nome": "Agata",
+    "idade": "90",
+    "notas": [
+        7,
+        4,
+        5,
+        9
+    ],
+    "avg_notas": 6.25
+}{
+    "id": 3,
+    "nome": "Cacau",
+    "idade": "1",
+    "notas": [
+        7,
+        6,
+        7,
+        9
+    ],
+    "avg_notas": 7.25
+}

@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "nome": "Diana",
+    "idade": "2",
+    "notas": [
+        2,
+        2,
+        4,
+        3
+    ],
+    "avg_notas": 2.75
+}

@@ -1,0 +1,15 @@
+João Silva, Ciência da Computação, 8.5
+Maria Oliveira, Engenharia Civil, 7.8
+Pedro Santos, Arquitetura, 9.2
+Ana Costa, Direito, 6.9
+Lucas Almeida, Medicina, 8.1
+Carla Pereira, Psicologia, 7.5
+Felipe Souza, Administração, 8.7
+Fernanda Lima, Engenharia de Produção, 9.0
+Rafael Rocha, Economia, 7.3
+Juliana Melo, Biologia, 8.0
+Bruno Carvalho, Engenharia Elétrica, 6.8
+Luiza Fernandes, Matemática, 9.5
+Gustavo Ribeiro, Física, 7.9
+Camila Andrade, Química, 8.4
+Renato Gomes, Educação Física, 6.7

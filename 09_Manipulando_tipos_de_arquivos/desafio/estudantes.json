@@ -1,0 +1,24 @@
+{
+  "estudantes": [
+    {
+      "id": 1,
+      "nome": "Diana",
+      "idade": "2",
+      "notas": [2, 2, 4, 3]
+    },
+
+    {
+      "id": 2,
+      "nome": "Agata",
+      "idade": "90",
+      "notas": [7, 4, 5, 9]
+    },
+
+    {
+      "id": 3,
+      "nome": "Cacau",
+      "idade": "1",
+      "notas": [7, 6, 7, 9]
+    }
+  ]
+}

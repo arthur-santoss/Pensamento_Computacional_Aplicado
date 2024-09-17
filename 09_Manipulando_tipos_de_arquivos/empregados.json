@@ -1,0 +1,34 @@
+{
+  "funcionarios": [
+    {
+      "nome": "Lucas",
+      "sobrenome": "Silva",
+      "idade": 32,
+      "endereco": {
+        "rua": "rua dos macados 100",
+        "cidade": "Macacolandia",
+        "estado": "macacópolis"
+      }
+    },
+    {
+      "nome": "Sara",
+      "sobrenome": "Castro",
+      "idade": 40,
+      "endereco": {
+        "rua": "rua dos macados",
+        "cidade": "Macacolandia",
+        "estado": "macacópolis"
+      }
+    },
+    {
+      "nome": "Ana",
+      "sobrenome": "Oliveira",
+      "idade": 27,
+      "endereco": {
+        "rua": "rua dos macados",
+        "cidade": "Macacolandia",
+        "estado": "macacópolis"
+      }
+    }
+  ]
+}
